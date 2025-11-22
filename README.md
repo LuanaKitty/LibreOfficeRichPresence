@@ -1,3 +1,1 @@
 # LibreOfficeRichPresence
-# LibreOfficeRichPresence
-# LibreOfficeRichPresence
